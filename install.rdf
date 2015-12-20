@@ -7,7 +7,8 @@
     <em:version>2.6</em:version>
     <em:type>2</em:type>
     <em:unpack>true</em:unpack>
-    <em:creator>naan studio, Inc.</em:creator>
+    <em:creator>Echofox Team</em:creator>
+    <em:contributor>naan studio, Inc.</em:contributor>
     <em:developer>Kazuho Okui</em:developer>
     <em:translator>Fingli(bg)</em:translator>
     <em:translator>animarval(ca)</em:translator>
@@ -28,13 +29,9 @@
     <em:translator>yfdyh000(zh-CN)</em:translator>
     <em:translator>velociraptor(zh-TW)</em:translator>
     <em:description>Full featured, super clean Twitter app for Firefox.</em:description>
-    <em:homepageURL>http://www.echofon.com/</em:homepageURL>
+    <em:homepageURL>https://github.com/echofox-team/echofon-firefox-unofficial</em:homepageURL>
     <em:iconURL>chrome://echofon/content/images/icon.png</em:iconURL>
-
     <em:optionsURL>chrome://echofon/content/preferences/preferences.xul</em:optionsURL>
-
-                  kPlAyq0+OyuuYCL0SRGv7/oJAMUkkEc+AI0BA/timyAutwMixSQtK7Q7OAIJ4
-                  Fqw1z42l04wihoiddUqaxvkzRBefrMeQRohOIw6IIAJG9zfjp+WHcxtsXFiUf
 
     <!-- Firefox -->
     <em:targetApplication>
