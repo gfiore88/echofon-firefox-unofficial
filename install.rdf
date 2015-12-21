@@ -28,7 +28,7 @@
     <em:translator>guzelmu(tr)</em:translator>
     <em:translator>yfdyh000(zh-CN)</em:translator>
     <em:translator>velociraptor(zh-TW)</em:translator>
-    <em:description>Full featured, super clean Twitter app for Firefox.</em:description>
+    <em:description>Maintained version of Echofon: full featured, super clean Twitter app for Firefox.</em:description>
     <em:homepageURL>https://github.com/echofox-team/echofon-firefox-unofficial</em:homepageURL>
     <em:iconURL>chrome://echofon/content/images/icon.png</em:iconURL>
     <em:optionsURL>chrome://echofon/content/preferences/preferences.xul</em:optionsURL>
